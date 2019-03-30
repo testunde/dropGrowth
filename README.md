@@ -55,3 +55,6 @@ Usually, you do NOT need to re-run cmake.
 cd build
 ninja format
 ```
+
+## TODO
+- performance improvements (i.e. QuadTree instead of bruteforce)
